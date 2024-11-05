@@ -20,8 +20,8 @@ extensions=(
 
     # Useful extensions for code management
     "eamodio.gitlens"                 # Git integration
-    "ms-vscode-remote.remote-ssh"     # Remote development
-    "ms-vscode-remote.remote-containers" # Container development
+    # "ms-vscode-remote.remote-ssh"     # Remote development
+    # "ms-vscode-remote.remote-containers" # Container development
 
     # General support extensions
     "streetsidesoftware.code-spell-checker" # Spell checker
